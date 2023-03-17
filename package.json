@@ -1,0 +1,19 @@
+{
+  "name": "oksl_23",
+  "version": "1.0.0",
+  "description": "OKSL 2023 Website",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ptnoire/OKSL_23.git"
+  },
+  "author": "PT Anderson",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
+}
