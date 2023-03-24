@@ -40,7 +40,7 @@
 114D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\@swc\helpers\lib\_class_check_private_static_access.js133234526678107508 0
 113D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\caniuse-lite\data\features\comparedocumentposition.js133234526704329197 0
 74D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\csso\lib\clean133234526696295848 1
-51D:\Documents HDD\2022 Coding Education\OKSL_23\dist133234582941562615 1
+51D:\Documents HDD\2022 Coding Education\OKSL_23\dist133240777226132285 1
 108D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\caniuse-lite\data\features\permissions-policy.js133234526716624791 0
 89D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\@parcel\workers\lib\Worker.js133234526692832431 0
 88D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\posthtml-render\package.json133234526657330176 0
@@ -51,7 +51,7 @@
 93D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\entities\lib\encode-trie.d.ts.map133234526678500614 0
 57D:\Documents HDD\2022 Coding Education\OKSL_23\.gitignore133234528063590312 0
 102D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\caniuse-lite\data\features\css-autofill.js133234526706225012 0
-57D:\Documents HDD\2022 Coding Education\OKSL_23\index.html133234573487339070 0
+57D:\Documents HDD\2022 Coding Education\OKSL_23\index.html133240770604287092 0
 79D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\stable\package.json133234526651516514 0
 91D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\caniuse-lite\data\regions\CL.js133234526703945477 0
 107D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\caniuse-lite\data\features\fieldset-disabled.js133234526712637283 0
@@ -100,7 +100,7 @@
 70D:\Documents HDD\2022 Coding Education\OKSL_23\src\img\okslbucks56.ico132886426026031204 0
 85D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\csso\lib\replace\property133234526686947752 1
 81D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\resolve-from\index.js133234526653291617 0
-60D:\Documents HDD\2022 Coding Education\OKSL_23\src\style.css133234582941275484 0
+60D:\Documents HDD\2022 Coding Education\OKSL_23\src\style.css133240777225622872 0
 107D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\caniuse-lite\data\features\css-rebeccapurple.js133234526708971244 0
 71D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\detect-libc133234526665075617 1
 93D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\css-tree\lib\syntax\node\Value.js133234526705125968 0
@@ -160,7 +160,7 @@
 89D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\@parcel\transformer-image\lib133234526665438409 1
 91D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\caniuse-lite\data\regions\PL.js133234526716727721 0
 91D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\utility-types\dist\index.js.map133234526671056812 0
-74D:\Documents HDD\2022 Coding Education\OKSL_23\dist\index.2cdaf7bc.css.map133234582941557660 0
+74D:\Documents HDD\2022 Coding Education\OKSL_23\dist\index.2cdaf7bc.css.map133240777226122372 0
 90D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\mdn-data\css\types.schema.json133234526684543226 0
 104D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\caniuse-lite\data\features\xml-serializer.js133234526743416333 0
 108D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\htmlnano\lib\modules\normalizeAttributeValues.js133234526681556798 0
@@ -1470,7 +1470,7 @@
 87D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\@parcel\watcher\src\Glob.hh133234526683867515 0
 83D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\posthtml-render\license133234526651990020 0
 91D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\posthtml-render\dist\index.d.ts133234526666166255 0
-75D:\Documents HDD\2022 Coding Education\OKSL_23\dist\discordRe3.d7032be0.png133234573489258180 0
+75D:\Documents HDD\2022 Coding Education\OKSL_23\dist\discordRe3.d7032be0.png133240774171670038 0
 88D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\posthtml-parser\changelog.md133234526665896344 0
 81D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\css-tree\package.json133234526705556638 0
 83D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\posthtml-parser\license133234526652075371 0
@@ -1955,7 +1955,7 @@
 107D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133234526675352375 0
 101D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\caniuse-lite\data\features\css-lch-lab.js133234526707972309 0
 87D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\lines-and-columns\README.md133234526660540325 0
-62D:\Documents HDD\2022 Coding Education\OKSL_23\dist\index.html133234573489397293 0
+62D:\Documents HDD\2022 Coding Education\OKSL_23\dist\index.html133240770605346859 0
 101D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\entities\lib\generated\decode-data-xml.js133234526665060740 0
 109D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\@parcel\runtime-js\lib\helpers\node\css-loader.js133234526673489969 0
 120D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node133234526703356765 0
@@ -3050,7 +3050,7 @@
 142D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback\package.json133234526702494919 0
 95D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\caniuse-lite\data\features\woff2.js133234526743284273 0
 96D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\caniuse-lite\data\features\dialog.js133234526711600075 0
-70D:\Documents HDD\2022 Coding Education\OKSL_23\dist\index.2cdaf7bc.css133234582941527933 0
+70D:\Documents HDD\2022 Coding Education\OKSL_23\dist\index.2cdaf7bc.css133240777226097572 0
 96D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\caniuse-lite\data\features\dnssec.js133234526711741815 0
 107D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\caniuse-lite\data\features\input-file-accept.js133234526713769847 0
 85D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\@parcel\hash\package.json133234526663077011 0
@@ -3779,7 +3779,7 @@
 113D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\@parcel\runtime-js\src\helpers\browser\html-loader.js133234526679288888 0
 113D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\@parcel\runtime-js\src\helpers\browser\wasm-loader.js133234526691581858 0
 95D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\@parcel\runtime-js\lib\JSRuntime.js133234526686027592 0
-70D:\Documents HDD\2022 Coding Education\OKSL_23\dist\ytRe2.254e2ca2.png133234573489292892 0
+70D:\Documents HDD\2022 Coding Education\OKSL_23\dist\ytRe2.254e2ca2.png133240774171670038 0
 105D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\@parcel\runtime-js\lib\helpers\cacheLoader.js133234526668431110 0
 96D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\@parcel\package-manager\package.json133234526691145120 0
 110D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\@parcel\runtime-js\lib\helpers\node\html-loader.js133234526678510528 0
@@ -4264,8 +4264,8 @@
 73D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\.bin\svgo.cmd133234526743914734 0
 73D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\.bin\svgo.ps1133234526743914734 0
 75D:\Documents HDD\2022 Coding Education\OKSL_23\node_modules\.bin\terser.ps1133234526743924658 0
-69D:\Documents HDD\2022 Coding Education\OKSL_23\dist\index.e37f48ea.js133234573489317692 0
-73D:\Documents HDD\2022 Coding Education\OKSL_23\dist\index.e37f48ea.js.map133234573489441687 0
-76D:\Documents HDD\2022 Coding Education\OKSL_23\dist\okslbucks56.ec4a3b8c.ico133234573489307771 0
-73D:\Documents HDD\2022 Coding Education\OKSL_23\dist\okslLogo.3e35d911.png133234573489411938 0
-74D:\Documents HDD\2022 Coding Education\OKSL_23\dist\twitchRe2.0e483817.png133234573489397293 0
+69D:\Documents HDD\2022 Coding Education\OKSL_23\dist\index.e37f48ea.js133240774171719640 0
+73D:\Documents HDD\2022 Coding Education\OKSL_23\dist\index.e37f48ea.js.map133240774171764282 0
+76D:\Documents HDD\2022 Coding Education\OKSL_23\dist\okslbucks56.ec4a3b8c.ico133240774171670038 0
+73D:\Documents HDD\2022 Coding Education\OKSL_23\dist\okslLogo.3e35d911.png133240774171833718 0
+74D:\Documents HDD\2022 Coding Education\OKSL_23\dist\twitchRe2.0e483817.png133240774171808937 0
