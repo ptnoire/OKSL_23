@@ -5,6 +5,7 @@
     --oksl-orange-: #ef6c00;
     --oksl-blue-: #00eab7;
     --oksl-yellow-: #fff720;
+    --oksl-gradient-: linear-gradient(131deg, #aa4d00 0%, #9c9700 48%, #00b78f 100%);
 }
 
 body { font-family: 'League Spartan', sans-serif; margin: 0 }
@@ -70,6 +71,7 @@ footer {
     grid-area: mainContent-sideNav; 
 }
 .events-event {  
+    margin-top: 5px;
     display: grid;
     grid-template-columns: 0.3fr 1fr;
     grid-template-rows: 1fr;
@@ -102,19 +104,20 @@ footer {
     grid-template-areas:
       "articles-thumbnail articles-title articles-date"
       "articles-thumbnail articles-text articles-text";
-    /* border: 1px solid black; */
-    margin: 10px 10px 10px 10px;
+    margin: 20px 10px 10px 10px;
     max-height: 400px;
 }
 
 .articles-date, .articles-text, .articles-thumbnail, .articles-title {
     background-color: var(--background-black-);
-    border: 2px solid var(--black-);
+    border: 3px solid;
+    border-image-slice: 1;
+    border-image-source: var(--oksl-gradient-);
+    box-shadow: 0 10px 10px -4px rgb(0, 0, 0);
 }
   
 .articles-title { 
-    grid-area: articles-title; 
-    padding-left: 5px;
+    grid-area: articles-title;
 }
   
 .articles-thumbnail { 
@@ -129,12 +132,11 @@ footer {
 .articles-date { 
     grid-area: articles-date;
     text-align: center;
-    padding: 5px 5px 0 0;
 }
   
 .articles-text { 
     grid-area: articles-text; 
-    padding: 10px 10px 10px 10px;
+    padding: 10px 25px 25px 25px;
     overflow-y: scroll;
 }
   
@@ -178,4 +180,27 @@ footer {
 ::-webkit-scrollbar-thumb {
     background: var(--oksl-orange-);
     border-radius: 30px;
+}
+
+.ptsig {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--black-);
+    height: 40px;
+    width: 100%;
+}
+
+.ptsig img { 
+    height: 18px;
+    width: 100px;
+    min-width: 100px;
+    min-height: 10px;
+    border: none;
+    transform: translateY(4px);
+    box-shadow: none;
+}
+.ptsig p { 
+    color: var(--white-); 
+    font-size: .7rem;
 }
